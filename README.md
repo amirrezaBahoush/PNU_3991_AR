@@ -50,7 +50,7 @@
   </tr>
    <tr>
      <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">طراحي واسط كاربر</a></th>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">نظریه زبانها و ماشینها</a></th>
      <th></th>
     <th></th>
     <th></th>   
