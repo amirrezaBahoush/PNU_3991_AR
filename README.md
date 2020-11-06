@@ -7,7 +7,7 @@
 
 - [رزومه] (https://amirrezabahoush.github.io/algorithm.github.io/)
 
-- [SOP](لینک انگیزه نامه)
+- [SOP] (https://amirrezabahoush.github.io/SOP/#top)
 
 
 ------------------
