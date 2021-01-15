@@ -34,4 +34,12 @@
   </table>
 
 ------------------
+
+
+### چک لیست درس
+[ اینجا کلیک کنید](AB_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+
+
+
 </div>
