@@ -3,13 +3,13 @@
 ### امیررضا باهوش مهدی آبادی
  
 ---
-- [حساب گیت هاب] (https://github.com/amirrezaBahoush)
+- [حساب گیت هاب](https://github.com/amirrezaBahoush)
 
-- [رزومه] (https://amirrezabahoush.github.io/algorithm.github.io/)
+- [رزومه](https://amirrezabahoush.github.io/algorithm.github.io/)
 
-- [SOP] (https://amirrezabahoush.github.io/SOP/#top)
+- [SOP](https://amirrezabahoush.github.io/SOP/#top)
 
-- [Certificate] (https://www.sololearn.com/Certificate/1024-18291469/pdf/)
+- [Certificate](https://www.sololearn.com/Certificate/1024-18291469/pdf/)
 ------------------
 ## Winter Semester Courses 1399/2020
 
