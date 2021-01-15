@@ -37,7 +37,7 @@
 
 
 ### چک لیست درس
-[ اینجا کلیک کنید](AB_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+[ اینجا کلیک کنید](AB_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 
 
