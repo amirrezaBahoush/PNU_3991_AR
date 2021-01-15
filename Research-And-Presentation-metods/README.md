@@ -17,4 +17,19 @@
         <th style="backgrand-color:red"> ارائه دانشگاه جورجیا</th>
     </tr>
   </table>
+-----------------------
+### پایان نامه مربوطه به رشته مهندسی کامپیوتر
+
+<table style="width:100%">
+  <tr>
+    <td><a href="https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22">پایان نامه اول</a></td>
+    <th>کارشناسی ارشد ، مهندسی برق و کامپیوتر ، 2020 ، دانشگاه ایالتی اوهایو</th>
+    </tr>
+      <tr>
+    <td><a href="https://oatd.org/oatd/search?q=id%3A%22handle%3A10012%2F16359%22">پایان نامه دوم</a></td>
+   <th>دانشگاه واترلو</th>
+    </tr>
+  </table>
+
+------------------
 </div>
