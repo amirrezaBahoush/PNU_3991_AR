@@ -14,7 +14,7 @@
 
 - [Certificate](https://www.sololearn.com/Certificate/1024-18291469/pdf/)
 
-- [Patchwork](patchwotk.png)
+- [Patchwork](patchwotk.jpeg)
 ------------------
 ## Winter Semester Courses 1399/2020
 
